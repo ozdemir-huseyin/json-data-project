@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+  
+  }
+  .list{
+    display: flex;
+    margin:40px ;
+  }
+  
+  .teacher-list{
+   margin-left: 40px;
+  }
+  .student-btn{
+    background: black;
+    color: white;
+    height: 35px;
+   font-size: 20px;
+    border-radius: 7px;
+    text-align: center;
+  }
+  .teacher-btn{
+    background: orangered;
+    color: white;
+    height: 35px;
+   font-size: 20px;
+    border-radius: 7px;
+    text-align: center;
+  }
+  .student-tittle{
+    font-size:30px ;
+   font-weight: bold;
+   text-decoration:underline;
+   color: white;
+   padding: 10px;
+   
+  }
+  .teacher-tittle{
+    font-size:30px ;
+    font-weight: bold;
+    text-decoration:underline;
+    color: white;
+    padding: 10px;
+    
+  }
+  .student-context{
+    color: brown;
+    font-weight: bold;
+    padding: 0px 20px;
+    line-height: 30px; 
+    height: 180px;
+    
+}
+.student-out{
+  background-color: black;
+  margin-top: 20px;
+
+}
+.teacher-out{
+  background-color: orangered;
+  margin-top: 20px;
+
+}
+.teacher-context{
+  font-weight: bold;
+padding: 0px 20px;
+line-height: 30px; 
+
+}
+
+  
